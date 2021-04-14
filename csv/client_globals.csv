@@ -487,6 +487,6 @@
 "TENCENT_TOS_URL",,,"https://game.qq.com/contract.shtml",,,
 "TENCENT_PRIVACY_POLICY_URL",,,"https://game.qq.com/privacy_guide.shtml?ADTAG=gamepcbottom",,,
 "TENCENT_CHILD_PRIVACY_GUIDE_URL",,,"https://game.qq.com/privacy_guide_children.shtml?ADTAG=gamepcbottom",,,
-"USE_MULTITHREADED_LOADING",,"TRUE",,,,
+"USE_MULTITHREADED_LOADING",,"FALSE",,,,
 "PREFER_BUILD_PAGE_UNTIL_TOWN_HALL",4,,,,,
-"RECOMMENDER_REMINDER_SHOWN_HOURS_LEFT",24
+"RECOMMENDER_REMINDER_SHOWN_HOURS_LEFT",24,,,,,
