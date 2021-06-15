@@ -9,8 +9,6 @@
 "OpenTrainingTroop","Troop","troop","Open the training screen and show the troop","true"
 "OpenTrainingSpell","Spell","spell","Open the training screen and show the spell","true"
 "OpenWeb","String","url","Open default browser and go to address","false"
-,,"url2","If address cannot be opened i.e. clashroyale:// then the following urls are tested.",
-,,"url3",,
 "Share","String","url","Open native share dialogue with message","false"
 ,"String","message",,
 "OpenPlayerProfile","String","tag","Open player profile","true"
@@ -42,3 +40,4 @@
 ,"String","signature","validation signature from API",
 "TournamentHub",,,,"true"
 "OpenWar",,,"Open War","true"
+"CopyArmy","String","army","ArmyShareUtil encoded army composition","true"

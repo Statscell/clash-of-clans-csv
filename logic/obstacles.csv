@@ -84,3 +84,4 @@
 "Halloween2020","TID_OBSTACLE_HALLOWEEN2020","TID_OBSTACLE_HALLOWEEN2020","sc/buildings.sc","env_halloween2020","env_sharpstone_2_base",30,2,2,1,"false","Elixir",25000,"Elixir",75000,,"Clear Halloween Coffin",0,"false",,1,96,0,,,,,,,,,,,,,,,,,,,,,2000
 "Xmas tree2020","TID_OBSTACLE_XMASTREE","TID_OBSTACLE_XMASTREE","sc/buildings.sc","env_xmastree_9","pine_tree2_base",30,2,2,1,"false","Gold",25000,"Gold",75000,"Snow_remove_01","Snow_tap_01",0,"false",,1,120,0,,,,,,,,,,,,,,,,,,,,,2000
 "Tree Branch CNY2021","TID_OBSTACLE_CNY2021","TID_OBSTACLE_CNY2021","sc/buildings.sc","treebranch_cny2021",,30,2,2,1,"false","Elixir",7777,"Elixir",77777,"Fortune_remove_01","Tree Pickup",0,"false",,1,96,0,,,,,,,,,,,,,,,,,,,,,5
+"Birthday2021","TID_OBSTACLE_BIRTHDAY2021","TID_OBSTACLE_BIRTHDAY2021","sc/buildings.sc","deco_9y_birthday_cake",,30,2,2,1,"FALSE","Gold",9999,"Gold",99999,,"Cake Pickup",0,"FALSE",,1,96,0,,,,,,,,,,,,,,,,,,,,,2000

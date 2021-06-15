@@ -67,4 +67,5 @@
 "Pirate Deco","TID_DECORATION_PIRATE_ANCHOR","TID_DECORATION_PIRATE_ANCHOR_INFO","sc/buildings.sc","deco_pirate","generic_construction_state1","Diamonds",500,,1,2,2,1,,,"statue_base",,"TRUE",,,,,,,,,,,,
 "Logmas Deco","TID_DECO_LOGMAS_TREE",,"sc/buildings.sc","deco_logmas","generic_construction_state1","Diamonds",500,,1,2,2,1,,,"statue_base",,"TRUE","TRUE",,,,,,,,,,,
 "Golden Wall Breaker","TID_DECO_FIREWORK_FANBOY",,"sc/buildings.sc","deco_Golden_WB","generic_construction_state1","Diamonds",500,,1,2,2,1,,,"statue_base",,"TRUE",,,,,,,,,,,"Fireworks_tap_01",
-"Jungle Deco","TID_DECO_TH14_FOUNTAIN",,"sc/buildings.sc","deco_jungle","generic_construction_state1","Diamonds",500,,1,2,2,1,,,"statue_base",,"TRUE",TRUE,,,,,,,,,,,
+"Jungle Deco","TID_DECO_TH14_FOUNTAIN",,"sc/buildings.sc","deco_jungle","generic_construction_state1","Diamonds",500,,1,2,2,1,,,"statue_base",,"TRUE","TRUE",,,,,,,,,,,
+"9 Year Birthday Statue","TID_DECORATION_9YEAR_BIRTHDAY_STATUE","TID_DECORATION_9YEAR_BIRTHDAY_STATUE_INFO","sc/buildings.sc","deco_anniversary_9y","generic_construction_state1","Diamonds",500,,1,2,2,1,,,"statue_base",,"TRUE","TRUE",,,,,,,,,,,

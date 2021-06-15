@@ -22,11 +22,12 @@
 ,"electro_owl_circle",,"true","false","true",0,0
 "electrowl_stunned","electro_owl_glow_stunned",,"true","false","true",1000,0
 "empty","empty","spine_mid_s","true","false","true",200,0
-"hero_cny_king_tulips","hero_cny_tulips","L_Leg_s","true","false","true",600,0
+"hero_cny_king_tulips","hero_cny_tulips","L_toe_s","false","false","true",600,-50
 "ice_Celebrate","hero_ice_burst","spine_mid_s","true","false","true",2000,0
 ,"hero_ice_snow_spiral",,"true","false","true",0,0
 "ice_mist","hero_ice_mist","spine_mid_s","true","false","true",900,0
 "jolly_sword","hero_jolly_sword","L_gunbone_01_s","true","false","true",300,10
+"jungle_warden_staff","hero_jungle_warden_glow2","particle_jnt","false","false","true",0,0
 "pekka_sword","hero_pekka_sword","L_gunbone_01_s","true","false","true",300,18
 "pirate_king_sword_sparks","hero_pirateking_sword","R_wrist_s","true","false","true",100,45
 "pirate_king_sword_sparks_cheer","hero_pirateking_sword_extended","R_wrist_s","true","false","true",100,45
