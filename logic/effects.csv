@@ -124,7 +124,8 @@
 ,,,"Balloon_Die_wood",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,"Balloon_Die_bloon",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Balloon Goblin Attack",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/cannon_fire3.ogg",70,90,110,"sfx/mortar_hit_01.ogg",40,150,150,0,"false",0,"false",,0,0,0,100,100
-"Balloon Goblin Deploy",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/balloon_deploy_02.ogg",80,100,100,"sfx/gob_attack_01.ogg",40,80,80,0,"false",0,"false",,0,0,0,100,100
+"Balloon Goblin Deploy",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/balloon_deploy_02.ogg",80,100,100,"sfx/balloon_deploy_02.ogg",80,100,100,0,"false",0,"false",,0,0,0,100,100
+"Balloon Rocket Deploy",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/hasty_balloon_dep_01.ogg",80,100,100,"sfx/hasty_balloon_dep_01.ogg",80,100,100,0,"false",0,"false",,0,0,0,100,100
 "Balloon Goblin Die",,,,,,"Top",0,0,"false","true","false","false","false","false","false","false","false",0,0,"sfx/balloon_die_01.ogg",80,95,105,"sfx/mage_attack_02.ogg",70,60,75,0,"false",0,"false",,0,0,0,100,100
 "Balloon Goblin Hit",,,"Wizard_Tower_lightFlash",,0,"Top",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/balloon_hit_01.ogg",80,95,105,"sfx/balloon_hit_01.ogg",70,95,105,0,"false",0,"false",,0,0,0,100,100
 ,,,"Ring",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1462,6 +1463,24 @@
 ,,,"Smoke",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Party King Scream",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,3000,"sfx/rock_king_scream_02_dl_opt.ogg",90,100,100,"sfx/rock_king_scream_02_dl_opt.ogg",90,100,100,0,"true",0,"false",,0,0,0,100,100
 "Party King Select",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,6000,"sfx/rock_king_tap_01_dl_opt.ogg",90,100,100,"sfx/rock_king_tap_01_dl_opt.ogg",90,100,100,0,"true",0,"false",,0,0,0,100,100
+"Party King 2 Ability Effect",,,"rage_kingFlames",,0,"Ground",0,0,"false","true","false","false","false","false","false","false","false",0,0,"sfx/pk2ability1.ogg",90,100,100,"sfx/pk2ability1.ogg",90,100,100,0,"false",0,"false",,0,0,0,100,100
+,,,"king_glowPurple",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"king_rangeRingOutter",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Party King 2 Attack",,,,,,"Objects",0,0,"false","true","false","false","false","false","false","false","false",0,0,"sfx/pk2atk1.ogg",70,100,100,"sfx/pk2atk1.ogg",70,100,100,0,"false",0,"false",,0,0,0,100,100
+,,,,,,,,,,,,,,,,,,,,"sfx/pk2atk1.ogg",70,112,112,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"sfx/pk2atk1.ogg",70,90,90,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,"sfx/pk2atk1.ogg",70,119,119,,,,,,,,,,,,,,
+"Party King 2 Deploy",,,,,,"Objects",20,200,"true","false","false","false","false","false","false","false","false",0,0,"sfx/pk2dep1.ogg",90,100,100,"sfx/pk2dep1.ogg",90,100,100,0,"false",0,"false",,0,0,0,100,100
+"Party King 2 Die",,,"Mortar_lightFlash",,0,"Top",100,1000,"true","false","false","false","false","false","false","false","false",0,0,"sfx/rock_king_die_vo_01_dl_opt.ogg",90,100,100,"sfx/rock_king_die_vo_01_dl_opt.ogg",90,100,100,0,"false",0,"false",,0,0,0,100,100
+,,,"Ring",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"Place",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"MortarHit_lvl6",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"hero_die_force",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"Force",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"Grass",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"Smoke",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Party King 2 Scream",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,3000,"sfx/pk2scream1.ogg",90,100,100,"sfx/pk2scream1.ogg",90,100,100,0,"true",0,"false",,0,0,0,100,100
+"Party King 2 Select",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,6000,"sfx/pk2select1.ogg",90,100,100,"sfx/pk2select1.ogg",90,100,100,0,"true",0,"false",,0,0,0,100,100
 "Party Warden Attack",,,"grandwarden_hit",,0,"Top",0,0,"false","true","false","false","false","true","true","false","false",0,0,"sfx/pw_atk_01_dl_opt.ogg",80,95,105,"sfx/pw_atk_05_dl_opt.ogg",80,95,105,0,"false",0,"true",,0,0,0,100,100
 ,,,,,,,,,,,,,,,,,,,,"sfx/pw_atk_02_dl_opt.ogg",80,95,105,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,"sfx/pw_atk_03_dl_opt.ogg",80,95,105,,,,,,,,,,,,,,
@@ -1907,6 +1926,9 @@
 "Troll Deploy",,,"Deploy",,0,"Objects",20,200,"false","false","false","false","false","false","false","false","false",0,0,"sfx/rock_troll_dep_02.ogg",80,95,105,"sfx/mage_attack_02.ogg",60,70,75,0,"false",0,"false",,0,0,0,100,100
 ,,,"Grass",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,"Place",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Super Troll Deploy",,,"Deploy",,0,"Objects",20,200,"false","false","false","false","false","false","false","false","false",0,0,"sfx/super_bowler_dep_04.ogg",90,95,105,"sfx/super_bowler_dep_04.ogg",90,95,105,0,"false",0,"false",,0,0,0,100,100
+,,,"Grass",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,"Place",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Troop Housing Pickup",,,"Grass",,0,"Top",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/troop_housing_pickup_09.ogg",80,100,100,"sfx/wall_pickup_01.ogg",80,100,100,0,"false",0,"false",,0,0,0,100,100
 "Troop Housing Placing",,,"Place",,0,"Objects",0,0,"false","true","false","false","false","false","false","false","false",0,0,"sfx/troop_housing_placing_08.ogg",80,100,100,"sfx/cannon_drop2.ogg",80,100,100,0,"false",0,"false",,0,0,0,100,100
 ,,,"Grass",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -2127,12 +2149,15 @@
 "toxic_Predeploy",,,"toxic_bottleDrop",,0,"Objects",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/vial_fall_02.ogg",80,95,95,"sfx/elixir_collect_02.ogg",50,140,140,0,"false",0,"false",,0,0,0,100,100
 "trollAttack",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/rock_troll_throw_01.ogg",70,98,102,"sfx/giant_attack_06.ogg",40,50,55,0,"false",0,"false",,0,0,0,100,100
 ,,,,,,,,,,,,,,,,,,,,"sfx/rock_troll_throw_02.ogg",70,98,102,,,,,,,,,,,,,,
+"SuptrollAttack",,,,,,"None",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/sup_troll_atk_01.ogg",70,98,102,"sfx/sup_troll_atk_01.ogg",70,98,102,0,"false",0,"false",,0,0,0,100,100
+,,,,,,,,,,,,,,,,,,,,"sfx/sup_troll_atk_02.ogg",70,98,102,,,,,,,,,,,,,,
 "trollBoulderHit",,,"trollBoulderHit_emitter",,0,"Objects",0,0,"false","false","false","false","false","false","false","false","false",0,0,,,,,,100,100,100,0,"false",0,"false",,0,0,0,100,100
 "trollBoulderHit_dust_lvl1",,,"trollBoulderHit_dust_emitter_lvl1",,0,"Top",0,0,"false","false","false","false","false","false","false","false","false",0,0,,,,,,100,100,100,0,"false",0,"false",,0,0,0,100,100
 ,,,"trollBoulderHit_radius_emitter",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "trollBoulderHit_dust_lvl2",,,"trollBoulderHit_dust_emitter_lvl2",,0,"Top",0,0,"false","false","false","false","false","false","false","false","false",0,0,,,,,,100,100,100,0,"false",0,"false",,0,0,0,100,100
 ,,,"trollBoulderHit_radius_emitter",,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "trollBoulder_bounce",,,,,,"Objects",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/rock_troll_hit_02.ogg",50,96,104,"sfx/explosion_02.ogg",60,110,120,0,"false",0,"false",,0,0,0,100,100
+"suptrollBoulder_bounce",,,,,,"Objects",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/sup_troll_rb_01.ogg",50,96,104,"sfx/explosion_02.ogg",60,110,120,0,"false",0,"false",,0,0,0,100,100
 "trollBoulder_destroyed",,,"trollBoulder_destroyed_emitter",,0,"Objects",0,0,"false","false","false","false","false","false","false","false","false",0,0,"sfx/rock_troll_explo_01.ogg",40,98,102,"sfx/mortar_hit_01.ogg",40,120,130,0,"false",0,"false",,0,0,0,100,100
 "trollBoulder_trail_lvl1",,,"trollBoulder_dust_emitter_lvl1",,0,"Top",0,0,"false","true","false","false","false","false","false","true","false",0,0,,,,,,100,100,100,0,"false",0,"false",,0,0,0,100,100
 "trollBoulder_trail_lvl2",,,"trollBoulder_dust_emitter_lvl2",,0,"Top",0,0,"false","true","false","false","false","false","false","true","false",0,0,,,,,,100,100,100,0,"false",0,"false",,0,0,0,100,100

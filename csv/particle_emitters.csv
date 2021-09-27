@@ -1633,6 +1633,7 @@
 ,,,,,,,,,,,,,,,,,,,,,"s4","false",,,,,,,,,,,,,,,,
 "mortar_trail_lvl6",1,50,600,800,0,360,10,10,80,150,0,0,10,0,100,"false","true","false","false","sc/buildings.sc","fireball3b","true",0,0,15,50,80,0,90,600,"true",0,0,0,0,100,100,100
 ,,,,,,,,,,,,,,,,,,,,,"firez5","true",,,,,,,,,,,,,,,,
+"party_bk_purple_glow",1,1,0,300,0,0,0,0,0,0,0,0,0,0,0,"false","false","false","false","sc/hero_bk_party_dl_opt.sc","party_purple_effect","true",0,0,0,100,100,0,0,0,"false",0,0,0,0,100,100,100
 "presentOpen_rays",5,200,1000,3000,0,360,0,360,1,2,0,0,40,0,0,"false","false","true","false","sc/buildings.sc","presentOpen_rays","false",0,0,0,30,250,-180,180,1000,"false",100,1000,0,0,100,100,100
 "presentOpen_sparkle",50,800,1000,8000,0,360,0,360,1,100,0,0,150,0,200,"false","false","true","false","sc/buildings.sc","presentOpen_sparkle","true",40,0,80,70,70,0,0,1000,"false",400,800,0,0,100,100,100
 ,,,,,,,,,,,,,,,,,,,,,"presentOpen_sparkle","false",,,,,,,,,,,,,,,,
